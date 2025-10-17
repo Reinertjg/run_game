@@ -28646,7 +28646,7 @@ o.mg()
 o.eZ()
 c=c.ax.gf7().a[0]
 o=new A.Q(new Float32Array(2))
-o.ac(0,800)
+o.ac(0,700)
 l=new A.Q(new Float32Array(2))
 l.ac(c,3)
 k=A.jG()
@@ -28655,7 +28655,7 @@ i=new A.ep(j,new Float32Array(2))
 i.ct(l)
 i.a5()
 h=A.al(A.er(null),null,!1,f)
-c=new A.uL(800,c,k,i,B.a_,0,new A.bp(h,0,0,d),null,new A.bn([]),new A.bn([]))
+c=new A.uL(700,c,k,i,B.a_,0,new A.bp(h,0,0,d),null,new A.bn([]),new A.bn([]))
 c.jo(null,null,null,null,0,o,null,null,l)
 q.cE=c
 q.di(c)
@@ -28705,7 +28705,7 @@ p=i.cE
 p===$&&A.b()
 p=p.ax.d.a[1]
 o=new A.Q(new Float32Array(2))
-o.ac(s+60,p-q)
+o.ac(s+100,p-q)
 s=new A.Q(new Float32Array(2))
 s.ac(r,q)
 p=i.c3
